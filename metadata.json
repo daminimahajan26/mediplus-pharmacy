@@ -1,0 +1,6 @@
+{
+  "name": "Mediplus Pharmacy",
+  "description": "Trusted neighborhood pharmacy providing quality medicines, healthcare products, and professional guidance in Pune.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
